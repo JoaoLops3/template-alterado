@@ -80,10 +80,6 @@ http://localhost:5173
 
 Este projeto foi desenvolvido como parte de uma atividade acadêmica. Contribuições são bem-vindas, mas por favor, entre em contato antes de fazer alterações significativas.
 
-## 📄 Licença
-
-Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
 ---
 
 Desenvolvido por João Gabriel Lopes Aguiar como parte da Atividade 7 de Desenvolvimento Web.
